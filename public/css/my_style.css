@@ -1,0 +1,71 @@
+body {
+    direction: rtl;
+}
+
+.main_div {
+    border: 0.5px solid #ddd;
+    width: 63%;
+    height: 500px;
+    margin: 25px auto;
+    box-shadow: 5px 5px 15px 1px #ddd;
+}
+
+.main_div .left_side {
+
+    width: 50%;
+    height: 100%;
+}
+
+.main_div .left_side .image {
+    width: 100%;
+    height: 100%;
+}
+
+.main_div .left_side .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.righ_side {
+    margin-top: 80px;
+}
+
+.righ_side .main_form {
+    width: 60%;
+    margin: auto;
+}
+
+#ok_btn {
+    width: 100%;
+}
+
+/* page 2
+------------------
+ */
+.main_invoice_header {
+    width: 100%;
+    height: 250px;
+}
+.main_invoice_header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* .inv_title {
+    width: 20%;
+
+} */
+
+.m1 {
+    width: 500px;
+
+
+}
+
+.m2 {
+    width: 320px;
+
+
+}
